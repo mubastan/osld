@@ -4,11 +4,17 @@ Open Set Logo Detection Dataset (OSLD Dataset) is a dataset of eCommerce product
 - 12.1K logo classes with 20.8K canonical logo images downloaded from the Web
 - Bounding box annotations for the logos in the 20K product images
 - Bounding box to canonical logo image match pair annotations
-- Unlabeled product images for semi/self-supervised learning for logo detection
+- 1M unlabeled product image URLs from amazon.com for semi/self-supervised learning for logo detection
 
 
 ## Download
 Coming soon.
+
+## Updates
+- 29 August 2021: Initial release of the dataset
+
+## Contact
+For questions, please contact Muhammet Bastan (mubastan@gmail.com)
 
 ## References
 ```
