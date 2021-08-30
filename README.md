@@ -8,10 +8,10 @@ Open Set Logo Detection Dataset (OSLD Dataset) is a dataset of eCommerce product
 
 
 ## Download
-Coming soon.
+[Dropbox](https://www.dropbox.com/sh/1uz2d684hofp65m/AAB2pxO5mkv1YPt76UVeXJbAa?dl=0)
 
 ## Updates
-- 29 August 2021: Initial release of the dataset
+- 30 August 2021: Initial release of the dataset
 
 ## Contact
 For questions, please contact Muhammet Bastan (mubastan@gmail.com)
