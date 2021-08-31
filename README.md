@@ -1,5 +1,5 @@
 ## OSLD Dataset
-Open Set Logo Detection Dataset (OSLD Dataset) is a dataset of eCommerce product images with associated brand logo images. It is released under creative commons ([CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0)) license to promote research in open set logo detection. The dataset can be used only for research purposes. The dataset contains:
+Open Set Logo Detection Dataset (OSLD Dataset) is a dataset of eCommerce product images with associated brand logo images (see [paper](https://arxiv.org/abs/1911.07440) for details). It is released under creative commons ([CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0)) license to promote research in open set logo detection. The dataset can be used only for research purposes. It contains:
 - 20K product images from amazon.com
 - 12.1K logo classes with 20.8K canonical logo images downloaded from the Web
 - Bounding box annotations for the logos in the 20K product images
