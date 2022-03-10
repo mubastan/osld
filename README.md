@@ -1,9 +1,8 @@
 ## OSLD Dataset
 Open Set Logo Detection Dataset (OSLD Dataset, formerly known as BLAC dataset) is a dataset of eCommerce product images with associated brand logo images (see [paper](https://arxiv.org/abs/1911.07440) for details). It is released under creative commons ([CC BY-NC 4.0](http://creativecommons.org/licenses/by-nc/4.0)) license to promote research in open set logo detection. The dataset can be used only for research purposes. It contains:
-- 20K product images
-- 12.1K logo classes with 20.8K canonical logo images downloaded from the Web
-- Bounding box annotations for the logos in the 20K product images
-- Bounding box to canonical logo image match pair annotations
+- 20K product images, with logo bounding box annotations
+- 12.1K logo classes with 20.8K canonical logo images
+- Product image logo bounding box to canonical logo image match pair annotations
 
 
 ## Download
