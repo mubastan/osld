@@ -15,7 +15,7 @@ Open Set Logo Detection Dataset (OSLD Dataset, formerly known as BLAC dataset) i
 For questions, please contact Muhammet Bastan (mubastan@gmail.com)
 
 ## References
-```
+```bibtex
 @article{OSLD,
   author    = {Muhammet Bastan and
                Hao-Yu Wu and
